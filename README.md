@@ -13,3 +13,7 @@
 ## Question time 🔧
 - Do I have to keep `backend/` and `frontend/` in the same folder?
     - No, you can move them anywhere you like, just make sure the ports (`2000` for backend, `3000` for frontend) stay the same.
+    
+## Need extra help? 🆘
+- Contact me on Discord: `driaug#4917`
+- Send me an email: `inbox@driaug.com`
